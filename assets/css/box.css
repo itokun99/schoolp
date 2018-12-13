@@ -1,0 +1,35 @@
+﻿.alert-box {
+	color:#333333;
+	border-radius:5px;
+	font-family:Tahoma,Geneva,Arial,sans-serif;
+	font-size:12px;
+	padding:5px 36px;
+	margin:3px 3px 15px 3px;
+	text-decoration: none;
+}
+.alert-box span {
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.error {
+	background:#ffecec url('../images/error.png') no-repeat 10px 50%;
+	border:1px solid #f5aca6;
+}
+.success {
+	background:#e9ffd9 url('../images/success.png') no-repeat 10px 50%;
+	border:1px solid #a6ca8a;
+}
+.warning {
+	background:#fff8c4 url('../images/warning.png') no-repeat 10px 50%;
+	border:1px solid #f2c779;
+}
+.notice {
+	background:#e3f7fc url('../images/notice.png') no-repeat 10px 20%;
+	border:1px solid #f5aca6;
+	height:60px;
+}
+.infoz {
+	border-radius:5px;
+	background:#efefef;
+	border:1px solid #dddddd;
+}

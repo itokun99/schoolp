@@ -1,0 +1,174 @@
+.action-container{
+    width: 40px !important;
+    margin: 0px !important;
+    padding: 5px !important;
+}
+
+.but-action{
+    font-size: 11px !important;
+}
+
+.class-title{
+    font-size: 14px !important;
+    font-weight: bold;
+}
+
+.map-info{
+    color: white;
+    text-transform: normal;
+}
+
+.map-info h6{
+    color: white;
+    text-transform: normal !important;
+}
+
+.nav>li{
+    height: auto !important;
+    margin:3px 5px 3px 5px!important;
+    padding: 0px !important;
+    /* border: 1px solid red !important; */
+}
+
+.sign-out-i{
+    margin:-100px 0px 0px 0px!important;
+    padding: 0px !important;
+}
+
+.nav-sidebar i{
+    width: 30px;
+    height: auto;
+    font-size: 20px !important; 
+    float: left !important;
+    margin:3px 5px 0px 0px!important;
+    padding: 0px !important;
+}
+
+.notif{
+    width: 30px;
+    height: auto;
+    font-size: 20px !important; 
+    float: left !important;
+    margin:0px 5px 0px 0px!important;
+    padding: 0px !important;
+}
+
+.nav p{
+    text-align: left !important;
+    margin:0px !important;
+    padding: 0px !important;
+}
+
+.nav>li>a{
+    height: auto !important;
+    margin:0px !important;
+    padding: 5px 10px !important;
+}
+
+.nav-sidebar>li>a:hover{
+    background-color: white !important; 
+}
+
+.nav-sidebar>li>a:hover p{
+    color: #05568d;
+}
+
+.nav-sidebar>li>a:hover i{
+    color: #05568d !important;
+}
+
+.menu-hover>li>a:hover{
+    background-color: rgba(48, 139, 253, 0.4) !important;
+}
+
+.active{
+    background-color: white !important; 
+    border-radius: 3px;
+}
+
+.nav-sidebar .active p{
+    color: #05568d !important;
+}
+
+.nav-sidebar .active i{
+    color: #05568d !important;
+}
+
+.nav-collapse{
+    margin: 3px 0px !important;
+    padding: 0px !important;
+    background-color: transparent !important;
+}
+
+.active .nav-collapse>li>a{
+    margin:0px !important;
+    padding: 5px 10px !important;
+    color: #05568d !important;
+}
+
+.teach-attendance th{
+    color: white;
+}
+
+.sign-out-breakdown{
+    color: white;
+}
+
+.header-logo{
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    margin: 0px !important;
+    padding: 0px !important;
+    top: -10px;
+}
+
+.wtd-container{
+    background: red;
+    width: 18px;
+    height: 18px;
+    display: flex;
+    border-radius: 50%;
+    color: white;
+    font-size: 10px;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    margin-left: 5px;
+}
+
+.container-widget{
+    display: flex;
+}
+
+.calender-widget{
+    width: 92%;
+    transition: 1s;
+}
+
+.calender-widget-small{
+    width: 10%;
+    transition: 1s;
+}
+
+.calender-list-small{
+    width: 8%;
+    height: 150px;
+    transition: 1s;
+    /* border: 1px solid red; */
+}
+
+.calender-list{
+    width: 90%;
+    transition: 1s;
+    height: auto;
+}
+
+.view{
+    margin: 0px;
+}
+
+.notif-guru{
+    width: 600px;
+}
