@@ -10,11 +10,7 @@ class UserController extends Core_Controller {
         $this->load->model("ActivityModel");
         $this->load->model("ContactModel");
     }
-    public function test()
-    {
-        echo "asd";
-    }
-    
+   
     public function sendMessage()
     {
         $contactEmail = $this->input->post('contactEmail');
